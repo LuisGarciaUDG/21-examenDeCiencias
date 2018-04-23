@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1425169683 source:c:\users\luis\dropbox\inco\programación\programa 21 (examen de matematicas)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
+1425427646 source:c:\users\luis\dropbox\inco\programación\programa 21 (examen de ciencias)\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
